@@ -1,0 +1,25 @@
+{
+  "name": "discord_bot",
+  "version": "1.0.0",
+  "description": "Een banaan bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daantje1/discord_bot.git"
+  },
+  "author": "DaanBanaan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daantje1/discord_bot/issues"
+  },
+  "homepage": "https://github.com/daantje1/discord_bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
