@@ -46,7 +46,6 @@ bot.on("message", async message => {
     return message.channel.send(serverEmbed);
         return;
     }
-    if command == 
 
 });
 bot.login(botConfig.token);
